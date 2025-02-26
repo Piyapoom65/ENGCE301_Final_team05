@@ -57,7 +57,7 @@ app.use(mountPath, api.app);
 var httpsServer = require("https").createServer(options, app);
 
 httpsServer.listen(apiport, function () {
-  console.log("3CX Wallboard API (htts) running on port " + apiport + ".");
+  console.log("Wallboard API (https) running on port " + apiport + ".");
 });
 
 ParseServer.createLiveQueryServer(httpsServer);
