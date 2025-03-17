@@ -1,0 +1,8 @@
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'encodeParseObjectInCloudFunction' default will change to 'true' in a future version.","timestamp":"2025-03-05T01:56:59.883Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2025-03-05T01:56:59.951Z"}
+{"level":"info","message":"Create new client: 7740784e-9e12-4fce-ad91-652120813d11","timestamp":"2025-03-05T03:03:05.748Z"}
+{"level":"info","message":"Client disconnect: 7740784e-9e12-4fce-ad91-652120813d11","timestamp":"2025-03-05T03:09:26.199Z"}
+{"level":"info","message":"Create new client: 8e4ed5b4-e586-4aba-81f4-317d6520d435","timestamp":"2025-03-05T03:09:34.623Z"}
+{"level":"info","message":"Client disconnect: 8e4ed5b4-e586-4aba-81f4-317d6520d435","timestamp":"2025-03-05T04:01:59.529Z"}
+{"level":"info","message":"Create new client: 13fe769b-409d-4a94-8299-31910f974ec8","timestamp":"2025-03-05T04:22:50.586Z"}
+{"level":"info","message":"Client disconnect: 13fe769b-409d-4a94-8299-31910f974ec8","timestamp":"2025-03-05T05:30:13.933Z"}
