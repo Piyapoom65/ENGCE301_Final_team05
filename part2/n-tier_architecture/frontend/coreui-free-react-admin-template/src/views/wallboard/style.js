@@ -101,6 +101,7 @@ export const CallStatusContainer = styled.div`
 
     &.offerCall {
       background: #28a745;
+      border-radius: 10px 0 0 10px;
     }
 
     &.abandon_call {
@@ -138,6 +139,7 @@ export const CallStatusContainer = styled.div`
     &.total_call_queue {
       background: #ffffff;
       border: 2px solid red;
+      border-radius: 0 10px 10px 0;
 
       .label {
         color: rgb(24, 24, 24);
@@ -160,7 +162,7 @@ export const CallStatusContainer = styled.div`
 `
 
 export const CenterBarStyle = styled.div`
-  background-color: #e5e5e5;
+  background-color: #ffffff;
   padding: 20px;
   display: flex;
   margin-top: 30px;
@@ -276,4 +278,4 @@ export const Wallboard1Container = styled.div`
       }
     }
   }
-`
+  `
