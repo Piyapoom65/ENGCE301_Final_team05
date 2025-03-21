@@ -30,7 +30,7 @@ This our Solution for Term Project in ENGCE301
 
 ## **ER Diagram**
 
-
+![ER](Pictures/ER.jpg)
 
 ## **Activity Flow Diagram**
 
@@ -57,7 +57,11 @@ This our Solution for Term Project in ENGCE301
 Link to API Specification Documentation: [This Link](./docs/api/README.md).
 
 ## Our Team
-- นายสรยุทธ  จาปัญญะ 65543206081-3
-- นายปิยภูมิ บุญนาค 65543206070-6
-- นายทินภัทร แก้วชมภู 65543206014-4
-- นายเมธาวี วรรณารักษ์65543206076-3
+- Team Leader นายสรยุทธ  จาปัญญะ 65543206081-3
+- System Analyst (SA) นายปิยภูมิ บุญนาค 65543206070-6
+- Developer นายทินภัทร แก้วชมภู 65543206014-4
+- Tester นายเมธาวี วรรณารักษ์65543206076-3
+
+## Work Down Structure
+
+![Work_down_structure](Pictures/Work_down_structure.jpg)
