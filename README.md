@@ -60,7 +60,7 @@ Link to API Specification Documentation: [This Link](./docs/api/README.md).
 - Team Leader นายสรยุทธ  จาปัญญะ 65543206081-3
 - System Analyst (SA) นายปิยภูมิ บุญนาค 65543206070-6
 - Developer นายทินภัทร แก้วชมภู 65543206014-4
-- Tester นายเมธาวี วรรณารักษ์65543206076-3
+- Tester นายเมธาวี วรรณารักษ์ 65543206076-3
 
 ## Work Down Structure
 
